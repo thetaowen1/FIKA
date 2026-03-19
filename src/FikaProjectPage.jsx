@@ -3,31 +3,31 @@ const scenarios = [
     number: "01",
     title: "Street Food / Coffee",
     text: "A compact street café format that turns the platform into a visible, approachable point of sale for coffee, snacks, and daily service.",
-    image: "/images/fika-street-food.jpg",
+    image: "/FIKA/images/fika-street-food.jpg",
   },
   {
     number: "02",
     title: "Urban Delivery",
     text: "A modular cargo setup for efficient last-mile delivery, enabling small operators to move goods through dense urban environments with lower cost and greater flexibility.",
-    image: "/images/fika-delivery.jpg",
+    image: "/FIKA/images/fika-delivery.jpg",
   },
   {
     number: "03",
     title: "Mobile Repair Service",
     text: "A service-oriented configuration for on-site repair, maintenance, and support, bringing tools and capability directly to where the city needs them.",
-    image: "/images/fika-auto-repair.jpg",
+    image: "/FIKA/images/fika-auto-repair.jpg",
   },
   {
     number: "04",
     title: "Family Mobility",
     text: "A flexible everyday configuration that supports family transport, neighborhood movement, and shared daily life beyond commercial use.",
-    image: "/images/fika-family.jpg",
+    image: "/FIKA/images/fika-family.jpg",
   },
   {
     number: "05",
     title: "Outdoor Leisure",
     text: "A recreational setup that extends the platform into social, outdoor, and lifestyle use, showing how FIKA can move beyond utility into experience.",
-    image: "/images/fika-leisure.jpg",
+    image: "/FIKA/images/fika-leisure.jpg",
   },
 ];
 
